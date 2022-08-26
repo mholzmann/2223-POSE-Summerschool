@@ -1,3 +1,3 @@
-# POSE Summerschool 22/23
+# POSE Summerschool 2022
 
 Contains POSE examples for the Summerschool in September 2022.
